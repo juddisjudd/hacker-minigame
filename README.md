@@ -1,6 +1,8 @@
 # hacker-minigame
 A minigame in which you pretend to be hacking.
 
+[PREVIEW](https://streamable.com/hb7p5u)
+
 ## Usage
 - Enter Password
 - Run hacksaw.sh
