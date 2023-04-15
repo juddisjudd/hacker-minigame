@@ -1,7 +1,9 @@
 # hacker-minigame
 A minigame in which you pretend to be hacking.
 
-[PREVIEW](https://streamable.com/hb7p5u)
+[PREVIEW VIDEO](https://streamable.com/hb7p5u)
+
+[PREVIEW GAME](https://hacker-game.juddisjudd.repl.co/)
 
 ## Usage
 - Enter Password
